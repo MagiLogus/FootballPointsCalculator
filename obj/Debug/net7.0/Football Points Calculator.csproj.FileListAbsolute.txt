@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\Football Points Calculator\bin\Debug\net7.0\Football Points Calculator.exe
+C:\Users\33984578865\Desktop\Football Points Calculator\bin\Debug\net7.0\Football Points Calculator.deps.json
+C:\Users\33984578865\Desktop\Football Points Calculator\bin\Debug\net7.0\Football Points Calculator.runtimeconfig.json
+C:\Users\33984578865\Desktop\Football Points Calculator\bin\Debug\net7.0\Football Points Calculator.dll
+C:\Users\33984578865\Desktop\Football Points Calculator\bin\Debug\net7.0\Football Points Calculator.pdb
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.dll
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\refint\Football Points Calculator.dll
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.pdb
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\Football Points Calculator.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\Football Points Calculator\obj\Debug\net7.0\ref\Football Points Calculator.dll
